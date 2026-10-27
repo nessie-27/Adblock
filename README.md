@@ -219,4 +219,4 @@ Adblock Plus for Firefox is available as a full free version. All features and u
 Don't wait any longer! Start browsing the web without interruptions by downloading Adblock Plus for Firefox today!
 
 ---
-**Last updated:** 2026-10-26 20:50:41 UTC
+**Last updated:** 2026-10-27 00:11:06 UTC
